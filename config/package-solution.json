@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "newcomponentport-client-side-solution",
+    "id": "bb03494d-2428-402f-909c-6898c50c9658",
+    "version": "1.5.1.3",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "newcomponentport description"
+      },
+      "longDescription": {
+        "default": "newcomponentport description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "newcomponentport Feature",
+        "description": "The feature that activates elements of the newcomponentport solution.",
+        "id": "aa24b533-7be0-4183-9f29-705146c455a4",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/newcomponentport.sppkg"
+  }
+}
