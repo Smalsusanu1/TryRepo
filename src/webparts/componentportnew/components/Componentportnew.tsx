@@ -14,7 +14,7 @@ export default class Componentportnew extends React.Component<IComponentportnewP
       <div>
         <h5>Portfolios</h5>
         <h1>Component Portfolio <PopupGfg/></h1>
-        
+        <h2>Small change is done by me.</h2>
         
       </div>
     
